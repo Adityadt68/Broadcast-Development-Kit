@@ -196,7 +196,7 @@ Go to details tab and search for Thumbprint field, select it, and copy its value
 The solution is composed by 3 main projects:
 - **BotOrchestrator:** The Azure Functions used to execute some of the features in the solution.
 - **ManagementApi:** The project containing the management API that is used to interact with the solution.
-- **BotService:** A self-hosted API/application-hosted media bot that hosts the media session. As part of its core componentes, it includes  the GStreamer pipelines that are in charge of processing the media and devliver it in SRT/RTMP.
+- **BotService:** A self-hosted API/application-hosted media bot that hosts the media session. As part of its core components, it includes  the GStreamer pipelines that are in charge of processing the media and deliver it in SRT/RTMP.
 
 
 
